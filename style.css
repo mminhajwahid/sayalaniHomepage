@@ -1,0 +1,89 @@
+.page{
+    width: 1200px;
+        height: 800px;
+    }
+    .iconpart{
+        background-color: blue;
+        width: 1325px;
+        height: 35px;
+        color: white;
+        text-align: center;
+     }
+    button{
+        float: right;
+        display: inline-block;
+    }
+    .linkpart{
+        background-color:floralwhite;
+         width: 1325px;
+        height: 60px;
+         padding-left: 100px;
+         padding-bottom: 15px;
+    }
+    .imagepart{
+        width: 1325px;
+        height: 500px;
+    }
+    .headerpart{
+        background-color: blue;
+        width: 1325px;
+        height: 30px;
+        color: white;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .paragraph{
+         width: 1325px;
+        height: 300px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .img{
+        text-align: center;
+    }
+    .writting{
+        text-align: center;
+    
+    }
+    .main{
+        background-color: blue;
+        width: 1325px;
+        height: 400px;
+        color: cornsilk;
+        display: inline-block;
+    }
+    .logo{
+        width: 1325px;
+        height: 500px;
+        display: inline;
+    }
+    .Event{
+        width: 1325px;
+        height: 800px;
+    }
+    .Garllery{
+         width: 1325px;
+        height: 300px;
+        padding-bottom: 30px;
+        padding-left: 100px;
+    
+    }
+    .contact{
+        background-color: black;
+        width: 1325px;
+        height: 400px;
+        color: white;
+    }
+    .copyright{
+        background-color: blue;
+        width: 1325px;
+        height: 35px;
+        color: white;
+        padding-top: 10px;
+    }
+    .linkpart .button{
+        text-align: center;
+    }
